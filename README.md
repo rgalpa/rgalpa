@@ -1,47 +1,56 @@
 
 
-<h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=35&pause=1000&color=29F70C&width=435&lines=As-salamu+alaykum+%F0%9F%91%8B;Welcome+to+my+Profile" alt="Typing SVG" /></a></h1>
+<h1 align="center">👋 Hey there, I'm Rubyeat</h1>
+
+<h3 align="center"> 🎓 CSE Student @ BRAC University </h3>
 
 <h2>Streak 🔥</h2>
 <p align="center">
-   <img src="https://github-readme-streak-stats.herokuapp.com/?user=rgalpa&theme=gotham&hide_border=false" alt="rgalpa" />
+   <a href="https://git.io/streak-stats"><img src="https://rizwansammo-push-streak.vercel.app?user=rgalpa&theme=gotham" alt="GitHub Streak" /></a>
 </p>
 
 <h2>📊 Stats</h2>
-<p align="center" href="https://github.com/rgalpa/rgalpa"><img alt="My GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=rgalpa&show_icons=true&theme=gotham"/></p>
-
+<p align="center" href="https://github.com/rgalpa/rgalpa"><img alt="My GitHub Stats" src="https://rizwansammo-stat.vercel.app/api?username=rgalpa&show_icons=true&theme=gotham"/></p>
 
 
 
 ## 🔧 Languages & Tools
 
+## 🔧 Languages & Tools
+
 <div align="center">
-<img src="https://img.shields.io/badge/Linux-282C34?logo=linux&logoColor=FCC624" alt="Linux logo" title="Linux" height="25" />
+
+<img src="https://img.shields.io/badge/Java-282C34?logo=openjdk&logoColor=FFFFFF" alt="Java logo" title="Java" height="25" />
 &nbsp;
-<img src="https://img.shields.io/badge/Python-282C34?logo=python&logoColor=3776AB" alt="Python logo" title="Python" height="25" />
+<img src="https://img.shields.io/badge/Spring_Boot-282C34?logo=springboot&logoColor=6DB33F" alt="Spring Boot logo" title="Spring Boot" height="25" />
 &nbsp;
-<img src="https://img.shields.io/badge/Flask-282C34?logo=flask&logoColor=white" alt="Flask logo" title="Flask" height="25" />
+<img src="https://img.shields.io/badge/Spring_Framework-282C34?logo=spring&logoColor=6DB33F" alt="Spring Framework logo" title="Spring Framework" height="25" />
 &nbsp;
-<img src="https://img.shields.io/badge/Dart-282C34?logo=dart&logoColor=0175C2" alt="Dart logo" title="Dart" height="25" />
+<img src="https://img.shields.io/badge/Maven-282C34?logo=apache-maven&logoColor=C71A36" alt="Maven logo" title="Maven" height="25" />
 &nbsp;
-<img src="https://img.shields.io/badge/Flutter-282C34?logo=flutter&logoColor=02569B" alt="Flutter logo" title="Flutter" height="25" />
+<img src="https://img.shields.io/badge/Gradle-282C34?logo=gradle&logoColor=02303A" alt="Gradle logo" title="Gradle" height="25" />
 &nbsp;
-<img src="https://img.shields.io/badge/IntelliJ-282C34?logo=intellij-idea&logoColor=white" alt="IntelliJ logo" title="IntelliJ" height="25" />
+<img src="https://img.shields.io/badge/SQL-282C34?logo=postgresql&logoColor=4169E1" alt="SQL logo" title="SQL" height="25" />
 &nbsp;
-<img src="https://img.shields.io/badge/PyCharm-282C34?logo=pycharm&logoColor=white" alt="PyCharm logo" title="PyCharm" height="25" />
+<img src="https://img.shields.io/badge/HTML5-282C34?logo=html5&logoColor=E34F26" alt="HTML5 logo" title="HTML5" height="25" />
 &nbsp;
-<img src="https://img.shields.io/badge/Bash-282C34?logo=gnubash&logoColor=4EAA25" alt="Bash logo" title="Bash" height="25" />
+<img src="https://img.shields.io/badge/CSS3-282C34?logo=css3&logoColor=1572B6" alt="CSS3 logo" title="CSS3" height="25" />
 &nbsp;
-<img src="https://img.shields.io/badge/Burp_Suite-282C34?logo=burp-suite&logoColor=F96814" alt="Burp Suite logo" title="Burp Suite" height="25" />
+<img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" />
 &nbsp;
-<img src="https://img.shields.io/badge/Wireshark-282C34?logo=wireshark&logoColor=1679A7" alt="Wireshark logo" title="Wireshark" height="25" />
+<img src="https://img.shields.io/badge/IntelliJ_IDEA-282C34?logo=intellij-idea&logoColor=white" alt="IntelliJ IDEA logo" title="IntelliJ IDEA" height="25" />
 &nbsp;
-<img src="https://img.shields.io/badge/Metasploit-282C34?logo=metasploit&logoColor=white" alt="Metasploit logo" title="Metasploit" height="25" />
+<img src="https://img.shields.io/badge/Eclipse-282C34?logo=eclipseide&logoColor=white" alt="Eclipse IDE logo" title="Eclipse" height="25" />
 &nbsp;
-<img src="https://img.shields.io/badge/Firebase-282C34?logo=firebase&logoColor=FFCA28" alt="Firebase logo" title="Firebase" height="25" />
+<img src="https://img.shields.io/badge/VS_Code-282C34?logo=visualstudiocode&logoColor=007ACC" alt="VS Code logo" title="VS Code" height="25" />
 &nbsp;
 <img src="https://img.shields.io/badge/Git-282C34?logo=git&logoColor=F05032" alt="Git logo" title="Git" height="25" />
-
+&nbsp;
+<img src="https://img.shields.io/badge/Docker-282C34?logo=docker&logoColor=2496ED" alt="Docker logo" title="Docker" height="25" />
+&nbsp;
+<img src="https://img.shields.io/badge/Microsoft_Power_Automate-282C34?logo=powerautomate&logoColor=white" alt="Power Automate logo" title="Power Automate" height="25" />
+&nbsp;
+<img src="https://img.shields.io/badge/Microsoft_Power_Apps-282C34?logo=powerapps&logoColor=white" alt="Power Apps logo" title="Power Apps" height="25" />
 
 </div>
 
@@ -68,16 +77,9 @@
 [![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://github-readme-activity-graph.vercel.app/graph?username=rgalpa&theme=react-dark&hide_border=true&area=true)](https://github.com/rgalpa)
 
 
-# 🐍 Sneaky Snake
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/holic-x/holic-x/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/holic-x/holic-x/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/adorabled4/adorabled4/output/github-contribution-grid-snake.svg">
-</picture>
-
 <h2>📊 Languages</h2>
 <p align="center">
-  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=rgalpa&theme=gotham&langs_count=6&layout=compact"><img alt="Activity Graph" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rgalpa&theme=gotham&langs_count=6&layout=compact" /></a>
+  <a href="https://rizwansammo-stat.vercel.app/api/top-langs/?username=rgalpa&theme=gotham&langs_count=6&layout=compact"><img alt="Activity Graph" src="https://rizwansammo-stat.vercel.app/api/top-langs/?username=rgalpa&theme=gotham&langs_count=6&layout=compact" /></a></a>
  </p>
 
 
