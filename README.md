@@ -16,8 +16,6 @@
 
 ## 🔧 Languages & Tools
 
-## 🔧 Languages & Tools
-
 <div align="center">
 
 <img src="https://img.shields.io/badge/Java-282C34?logo=openjdk&logoColor=FFFFFF" alt="Java logo" title="Java" height="25" />
