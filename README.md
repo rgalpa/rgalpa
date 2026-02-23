@@ -49,8 +49,6 @@
 <a href="https://gitlab.com/rgalpa" target="_blank"><img src="https://img.shields.io/badge/GitLab-282C34?logo=gitlab&logoColor=FC6D26" alt="GitLab logo" title="GitLab" height="25" /></a>
 <a href="https://dev.to/rgalpa" target="_blank"><img src="https://img.shields.io/badge/dev.to-282C34?logo=dev.to&logoColor=white" alt="Dev.to logo" title="Dev.to" height="25" /></a>
 <a href="https://www.youtube.com/user/UCM-gzgz7FLPVSV0WjVPXoyQ" target="_blank"><img src="https://img.shields.io/badge/YouTube-282C34?logo=youtube&logoColor=FF0000" alt="YouTube logo" title="YouTube" height="25" /></a>
-<a href="https://stackoverflow.com/users/20428078/rgalpa" target="_blank"><img src="https://img.shields.io/badge/StackOverflow-282C34?logo=stackoverflow&logoColor=F58025" alt="StackOverflow logo" title="StackOverflow" height="25" /></a>
-<a href="https://hashnode.com/@rgalpa" target="_blank"><img src="https://img.shields.io/badge/Hashnode-282C34?logo=hashnode&logoColor=2962FF" alt="Hashnode logo" title="Hashnode" height="25" /></a>
 <a href="https://www.facebook.com/rubyeat.galpa" target="_blank"><img src="https://img.shields.io/badge/Facebook-282C34?logo=facebook&logoColor=1877F2" alt="Facebook logo" title="Facebook" height="25" /></a>
 <a href="https://codepen.com/rgalpa" target="_blank"><img src="https://img.shields.io/badge/CodePen-282C34?logo=codepen&logoColor=white" alt="CodePen logo" title="CodePen" height="25" /></a>
 <a href="https://leetcode.com/u/rubyeat.galpa/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-282C34?logo=leetcode&logoColor=white" alt="LeetCode logo" title="LeetCode" height="25" /></a>
