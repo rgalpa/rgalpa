@@ -24,20 +24,6 @@
 &nbsp;
 <img src="https://img.shields.io/badge/Spring_Framework-282C34?logo=spring&logoColor=6DB33F" alt="Spring Framework logo" title="Spring Framework" height="25" />
 &nbsp;
-<img src="https://img.shields.io/badge/Maven-282C34?logo=apache-maven&logoColor=C71A36" alt="Maven logo" title="Maven" height="25" />
-&nbsp;
-<img src="https://img.shields.io/badge/Gradle-282C34?logo=gradle&logoColor=02303A" alt="Gradle logo" title="Gradle" height="25" />
-&nbsp;
-<img src="https://img.shields.io/badge/SQL-282C34?logo=postgresql&logoColor=4169E1" alt="SQL logo" title="SQL" height="25" />
-&nbsp;
-<img src="https://img.shields.io/badge/HTML5-282C34?logo=html5&logoColor=E34F26" alt="HTML5 logo" title="HTML5" height="25" />
-&nbsp;
-<img src="https://img.shields.io/badge/CSS3-282C34?logo=css3&logoColor=1572B6" alt="CSS3 logo" title="CSS3" height="25" />
-&nbsp;
-<img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" />
-&nbsp;
-<img src="https://img.shields.io/badge/IntelliJ_IDEA-282C34?logo=intellij-idea&logoColor=white" alt="IntelliJ IDEA logo" title="IntelliJ IDEA" height="25" />
-&nbsp;
 <img src="https://img.shields.io/badge/Eclipse-282C34?logo=eclipseide&logoColor=white" alt="Eclipse IDE logo" title="Eclipse" height="25" />
 &nbsp;
 <img src="https://img.shields.io/badge/VS_Code-282C34?logo=visualstudiocode&logoColor=007ACC" alt="VS Code logo" title="VS Code" height="25" />
