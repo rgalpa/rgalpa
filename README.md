@@ -44,7 +44,7 @@
 <div align="center">
 
 <a href="https://github.com/rgalpa" target="_blank"><img src="https://img.shields.io/badge/GitHub-282C34?logo=github&logoColor=white" alt="GitHub logo" title="GitHub" height="25" /></a>
-<a href="https://x.com/rgalpa" target="_blank"><img src="https://img.shields.io/badge/Twitter-282C34?logo=x&logoColor=white" alt="X logo" title="X" height="25" /></a>
+<a href="https://x.com/rubgalpa" target="_blank"><img src="https://img.shields.io/badge/Twitter-282C34?logo=x&logoColor=white" alt="X logo" title="X" height="25" /></a>
 <a href="https://www.linkedin.com/in/rubyeat-galpa-9a8232329" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-282C34?logo=linkedin&logoColor=0077B5" alt="LinkedIn logo" title="LinkedIn" height="25" /></a>
 <a href="https://gitlab.com/rgalpa" target="_blank"><img src="https://img.shields.io/badge/GitLab-282C34?logo=gitlab&logoColor=FC6D26" alt="GitLab logo" title="GitLab" height="25" /></a>
 <a href="https://dev.to/rgalpa" target="_blank"><img src="https://img.shields.io/badge/dev.to-282C34?logo=dev.to&logoColor=white" alt="Dev.to logo" title="Dev.to" height="25" /></a>
